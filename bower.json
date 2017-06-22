@@ -1,7 +1,0 @@
-{
-  "name": "polymer-check",
-  "version": "0.0.1",
-  "dependencies": {
-    "polymer": "Polymer/polymer#~0.5.2"
-  }
-}
